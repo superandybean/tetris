@@ -1,0 +1,10 @@
+andy 1000000
+andy 500000
+andy 250000
+andy 100000
+andy 50000
+andy 25000
+andy 10000
+andy 5000
+andy 1000
+andy 100
